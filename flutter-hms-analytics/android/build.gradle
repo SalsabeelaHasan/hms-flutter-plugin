@@ -40,6 +40,7 @@ android {
     }
 }
 
+
 dependencies {
     implementation 'com.huawei.hms:hianalytics:6.3.0.303'
 }
